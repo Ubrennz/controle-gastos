@@ -11,11 +11,11 @@ public class Gasto {
         this.categoria = category;
     }
 
-    public String getdescricao() {
+    public String getDescricao() {
         return descricao;
     }
 
-    public Double getvalor() {
+    public Double getValor() {
         return valor;
     }
 
